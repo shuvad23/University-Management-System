@@ -1,0 +1,72 @@
+{
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "name": { 
+                "type": "string" 
+            },
+            "age": { 
+                "type": "integer",
+                "minimum": 18 
+            },
+            "email": { 
+                "type": "string", 
+                "format": "email" 
+            },
+            "phone": { 
+                "type": "string", 
+                "pattern": "^(\\d{3}-\\d{3}-\\d{4})$"
+            },
+            "student_ID": { 
+                "type": "string", 
+                "pattern": "^S\\d{3}$" 
+            },
+            "department": { 
+                "type": "string", 
+                "minLength": 1
+            },
+            "section": { 
+                "type": "string" , 
+                "enum": ["A","B","C","D","E"]
+            },
+            "running_semester": {
+                "type": "string", 
+                "pattern": "^\\d{1,2}(st|nd|rd|th) Semester$"
+            },
+            "total_course": { 
+                "type": "integer", 
+                "minimum" : 1
+            },
+            "subjects": {
+                "type": "object",
+                "patternProperties": {
+                    ".*": {
+                        "type": "number",
+                        "minimum": 0.0,
+                        "maximum": 4.0,
+                        "multipleof": 0.01
+                    }
+                },
+                "miniProperties": 1
+            },
+            "grade":{
+                "type": "number",
+                "minimum": 0.0,
+                "maximum": 4.0,
+                "multipleof": 0.01
+            },
+            "status": {
+                "type": "string",
+                "enum": [
+                "1st Year (Freshman)",
+                "2nd Year (Sophomore)",
+                "3rd Year (Junior)",
+                "4th Year (Senior)"
+                ]
+            }
+        },
+        "required": ["name", "age", "email", "phone", "student_ID","department","section","running_semester","total_course","subjects","grade","status"],
+        "addtionalProperties": false
+    }
+}

@@ -1,0 +1,10 @@
+name,student_ID,total_course,department,grade,tuition_fees_per_credit,total_fees,payment,payment_due,payment_date
+NishaVermaaa,S149,6,Civil Engineering      ,3.68,6000,70800,0,70800,"25/01/2025, 00:21:24"
+SwatiTripath,S148,8,Mathematics            ,3.77,2500,53550,0,53550,"25/01/2025, 00:23:10"
+PoojaSinghal,S138,6,Electrical Engineering ,3.8200000000000003,4500,61600,0,61600,"25/01/2025, 00:23:10"
+MitaliKohlan,S131,3,Chemistry              ,3.79,6500,35250,35250,0,"27/01/2025, 02:15:12"
+PoojaSinghal,S106,7,Civil Engineering      ,3.73,6000,81600,0,81600,"25/01/2025, 00:23:10"
+IshaniPandey,S130,5,Chemistry              ,3.84,6500,54750,0,54750,"25/01/2025, 00:23:10"
+MohiniSrivae,S114,3,Architecture           ,3.67,5800,43190,0,43190,"25/01/2025, 00:23:10"
+OjaswiniSha,S107,5,Psychology             ,3.65,5200,64875,64875,0,"27/01/2025, 02:18:38"
+UrjaSinghan,S122,3,Architecture           ,3.7,5800,43190,0,43190,"25/01/2025, 00:23:10"

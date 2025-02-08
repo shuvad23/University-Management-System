@@ -1,0 +1,110 @@
+[
+    {
+        "name": "NishaVermaaa",
+        "student_ID": "S149",
+        "total_course": 6,
+        "department": "Civil Engineering      ",
+        "grade": 3.68,
+        "tuition_fees_per_credit": 6000,
+        "total_fees": 70800,
+        "payment": 0,
+        "payment_due": 70800,
+        "payment_date": "25/01/2025, 00:21:24"
+    },
+    {
+        "name": "SwatiTripath",
+        "student_ID": "S148",
+        "total_course": 8,
+        "department": "Mathematics            ",
+        "grade": 3.77,
+        "tuition_fees_per_credit": 2500,
+        "total_fees": 53550,
+        "payment": 0,
+        "payment_due": 53550,
+        "payment_date": "25/01/2025, 00:23:10"
+    },
+    {
+        "name": "PoojaSinghal",
+        "student_ID": "S138",
+        "total_course": 6,
+        "department": "Electrical Engineering ",
+        "grade": 3.82,
+        "tuition_fees_per_credit": 4500,
+        "total_fees": 61600,
+        "payment": 0,
+        "payment_due": 61600,
+        "payment_date": "25/01/2025, 00:23:10"
+    },
+    {
+        "name": "MitaliKohlan",
+        "student_ID": "S131",
+        "total_course": 3,
+        "department": "Chemistry              ",
+        "grade": 3.79,
+        "tuition_fees_per_credit": 6500,
+        "total_fees": 35250,
+        "payment": 35250,
+        "payment_due": 0,
+        "payment_date": "27/01/2025, 02:15:12"
+    },
+    {
+        "name": "PoojaSinghal",
+        "student_ID": "S106",
+        "total_course": 7,
+        "department": "Civil Engineering      ",
+        "grade": 3.73,
+        "tuition_fees_per_credit": 6000,
+        "total_fees": 81600,
+        "payment": 0,
+        "payment_due": 81600,
+        "payment_date": "25/01/2025, 00:23:10"
+    },
+    {
+        "name": "IshaniPandey",
+        "student_ID": "S130",
+        "total_course": 5,
+        "department": "Chemistry              ",
+        "grade": 3.84,
+        "tuition_fees_per_credit": 6500,
+        "total_fees": 54750,
+        "payment": 0,
+        "payment_due": 54750,
+        "payment_date": "25/01/2025, 00:23:10"
+    },
+    {
+        "name": "MohiniSrivae",
+        "student_ID": "S114",
+        "total_course": 3,
+        "department": "Architecture           ",
+        "grade": 3.67,
+        "tuition_fees_per_credit": 5800,
+        "total_fees": 43190,
+        "payment": 0,
+        "payment_due": 43190,
+        "payment_date": "25/01/2025, 00:23:10"
+    },
+    {
+        "name": "OjaswiniSha",
+        "student_ID": "S107",
+        "total_course": 5,
+        "department": "Psychology             ",
+        "grade": 3.65,
+        "tuition_fees_per_credit": 5200,
+        "total_fees": 64875,
+        "payment": 64875,
+        "payment_due": 0,
+        "payment_date": "27/01/2025, 02:18:38"
+    },
+    {
+        "name": "UrjaSinghan",
+        "student_ID": "S122",
+        "total_course": 3,
+        "department": "Architecture           ",
+        "grade": 3.7,
+        "tuition_fees_per_credit": 5800,
+        "total_fees": 43190,
+        "payment": 0,
+        "payment_due": 43190,
+        "payment_date": "25/01/2025, 00:23:10"
+    }
+]

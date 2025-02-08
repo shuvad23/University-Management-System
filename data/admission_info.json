@@ -1,0 +1,152 @@
+[
+    {
+        "department": "Computer Science       ",
+        "program_type": "Undergraduate",
+        "admission_fees": 20000,
+        "tuition_fees_per_year": 150000,
+        "tuition_fees_per_credit": 4000,
+        "semester_fees": 10000,
+        "additional_fees": 5000,
+        "scholarship_percentage": 25
+    },
+    {
+        "department": "Electrical Engineering ",
+        "program_type": "Undergraduate",
+        "admission_fees": 25000,
+        "tuition_fees_per_year": 180000,
+        "tuition_fees_per_credit": 4500,
+        "semester_fees": 12000,
+        "additional_fees": 7000,
+        "scholarship_percentage": 30
+    },
+    {
+        "department": "Mechanical Engineering ",
+        "program_type": "Undergraduate",
+        "admission_fees": 22000,
+        "tuition_fees_per_year": 200000,
+        "tuition_fees_per_credit": 5000,
+        "semester_fees": 15000,
+        "additional_fees": 8000,
+        "scholarship_percentage": 20
+    },
+    {
+        "department": "Civil Engineering      ",
+        "program_type": "Undergraduate",
+        "admission_fees": 30000,
+        "tuition_fees_per_year": 250000,
+        "tuition_fees_per_credit": 6000,
+        "semester_fees": 20000,
+        "additional_fees": 10000,
+        "scholarship_percentage": 40
+    },
+    {
+        "department": "Business Administration",
+        "program_type": "Undergraduate",
+        "admission_fees": 18000,
+        "tuition_fees_per_year": 120000,
+        "tuition_fees_per_credit": 3500,
+        "semester_fees": 8000,
+        "additional_fees": 4000,
+        "scholarship_percentage": 10
+    },
+    {
+        "department": "Physics                ",
+        "program_type": "Undergraduate",
+        "admission_fees": 28000,
+        "tuition_fees_per_year": 220000,
+        "tuition_fees_per_credit": 5500,
+        "semester_fees": 18000,
+        "additional_fees": 9000,
+        "scholarship_percentage": 35
+    },
+    {
+        "department": "Mathematics            ",
+        "program_type": "Undergraduate",
+        "admission_fees": 15000,
+        "tuition_fees_per_year": 100000,
+        "tuition_fees_per_credit": 2500,
+        "semester_fees": 6000,
+        "additional_fees": 3000,
+        "scholarship_percentage": 15
+    },
+    {
+        "department": "Chemistry              ",
+        "program_type": "Undergraduate",
+        "admission_fees": 32000,
+        "tuition_fees_per_year": 270000,
+        "tuition_fees_per_credit": 6500,
+        "semester_fees": 25000,
+        "additional_fees": 12000,
+        "scholarship_percentage": 50
+    },
+    {
+        "department": "Biology                ",
+        "program_type": "Undergraduate",
+        "admission_fees": 20000,
+        "tuition_fees_per_year": 160000,
+        "tuition_fees_per_credit": 4000,
+        "semester_fees": 11000,
+        "additional_fees": 6000,
+        "scholarship_percentage": 20
+    },
+    {
+        "department": "Economics              ",
+        "program_type": "Undergraduate",
+        "admission_fees": 25000,
+        "tuition_fees_per_year": 190000,
+        "tuition_fees_per_credit": 4700,
+        "semester_fees": 14000,
+        "additional_fees": 7500,
+        "scholarship_percentage": 30
+    },
+    {
+        "department": "Psychology             ",
+        "program_type": "Undergraduate",
+        "admission_fees": 26000,
+        "tuition_fees_per_year": 210000,
+        "tuition_fees_per_credit": 5200,
+        "semester_fees": 16000,
+        "additional_fees": 8500,
+        "scholarship_percentage": 25
+    },
+    {
+        "department": "Sociology              ",
+        "program_type": "Undergraduate",
+        "admission_fees": 30000,
+        "tuition_fees_per_year": 240000,
+        "tuition_fees_per_credit": 6000,
+        "semester_fees": 20000,
+        "additional_fees": 10000,
+        "scholarship_percentage": 40
+    },
+    {
+        "department": "Political Science      ",
+        "program_type": "Undergraduate",
+        "admission_fees": 17000,
+        "tuition_fees_per_year": 110000,
+        "tuition_fees_per_credit": 3000,
+        "semester_fees": 7000,
+        "additional_fees": 3500,
+        "scholarship_percentage": 12
+    },
+    {
+        "department": "Architecture           ",
+        "program_type": "Undergraduate",
+        "admission_fees": 27000,
+        "tuition_fees_per_year": 230000,
+        "tuition_fees_per_credit": 5800,
+        "semester_fees": 19000,
+        "additional_fees": 9500,
+        "scholarship_percentage": 30
+    },
+    {
+        "department": "Environmental Science  ",
+        "program_type": "Undergraduate",
+        "admission_fees": 19000,
+        "tuition_fees_per_year": 140000,
+        "tuition_fees_per_credit": 3700,
+        "semester_fees": 9000,
+        "additional_fees": 4500,
+        "scholarship_percentage": 18
+    }
+]

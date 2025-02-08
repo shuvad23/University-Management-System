@@ -1,0 +1,52 @@
+{
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "department": {
+                "type": "string",
+                "minLength": 1
+            },
+            "program_type": {
+                "type": "string",
+                "enum": ["Undergraduate", "Graduate", "Doctorate"]
+            },
+            "admission_fees": {
+                "type": "integer",
+                "minimum": 0
+            },
+            "tuition_fees_per_year": {
+                "type": "integer",
+                "minimum": 0
+            },
+            "tuition_fees_per_credit": {
+                "type": "integer",
+                "minimum": 1000
+            },
+            "semester_fees": {
+                "type": "integer",
+                "minimum": 0
+            },
+            "additional_fees": {
+                "type": "integer",
+                "minimum": 0
+            },
+            "scholarship_percentage": {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 100
+            }
+        },
+        "required": [
+            "department",
+            "program_type",
+            "admission_fees",
+            "tuition_fees_per_year",
+            "tuition_fees_per_credit",
+            "semester_fees",
+            "additional_fees",
+            "scholarship_percentage"
+        ],
+        "additionalProperties": false
+    }    
+}

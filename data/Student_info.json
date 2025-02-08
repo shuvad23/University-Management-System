@@ -1,0 +1,183 @@
+[
+    {
+        "name": "NishaVermaaa",
+        "age": 20,
+        "email": "nishavermaaa675@outlook.com",
+        "phone": "404-505-6060",
+        "student_ID": "S149",
+        "department": "Civil Engineering",
+        "section": "A",
+        "running_semester": "8th Semester",
+        "total_course": 6,
+        "subjects": {
+            "Structural Analysis": 3.67,
+            "Surveying": 3.74,
+            "Construction Management": 3.8,
+            "Environmental Engineering": 3.5,
+            "Geotechnical Engineering": 3.7,
+            "Transportation Engineering": 3.68
+        },
+        "grade": 3.68,
+        "status": "4th Year (Senior)"
+    },
+    {
+        "name": "SwatiTripath",
+        "age": 23,
+        "email": "swatitripath618@outlook.com",
+        "phone": "010-111-2223",
+        "student_ID": "S148",
+        "department": "Mathematics",
+        "section": "A",
+        "running_semester": "3rd Semester",
+        "total_course": 8,
+        "subjects": {
+            "Calculus": 3.93,
+            "Linear Algebra": 3.9,
+            "Abstract Algebra": 3.8,
+            "Probability and Statistics": 3.95,
+            "Differential Equations": 3.68,
+            "Real Analysis": 3.6,
+            "Complex Analysis": 3.78,
+            "Numerical Methods": 3.5
+        },
+        "grade": 3.77,
+        "status": "3rd Year (Junior)"
+    },
+    {
+        "name": "PoojaSinghal",
+        "age": 24,
+        "email": "poojasinghal838@outlook.com",
+        "phone": "888-999-0000",
+        "student_ID": "S138",
+        "department": "Electrical Engineering",
+        "section": "D",
+        "running_semester": "4th Semester",
+        "total_course": 6,
+        "subjects": {
+            "Circuit Analysis": 3.81,
+            "Control Systems": 3.95,
+            "Digital Signal Processing": 3.88,
+            "Electromagnetics": 3.78,
+            "Power Systems": 3.7,
+            "Electrical Machines": 3.78
+        },
+        "grade": 3.82,
+        "status": "4th Year (Senior)"
+    },
+    {
+        "name": "MitaliKohlan",
+        "age": 23,
+        "email": "mitalikohlan546@outlook.com",
+        "phone": "567-567-5678",
+        "student_ID": "S131",
+        "department": "Chemistry",
+        "section": "E",
+        "running_semester": "6th Semester",
+        "total_course": 3,
+        "subjects": {
+            "Organic Chemistry": 3.93,
+            "Inorganic Chemistry": 3.89,
+            "Physical Chemistry": 3.55
+        },
+        "grade": 3.79,
+        "status": "4th Year (Senior)"
+    },
+    {
+        "name": "PoojaSinghal",
+        "age": 23,
+        "email": "poojasinghal909@outlook.com",
+        "phone": "890-890-8901",
+        "student_ID": "S106",
+        "department": "Civil Engineering",
+        "section": "A",
+        "running_semester": "3rd Semester",
+        "total_course": 7,
+        "subjects": {
+            "Structural Analysis": 3.8,
+            "Surveying": 3.5,
+            "Construction Management": 3.74,
+            "Environmental Engineering": 3.75,
+            "Geotechnical Engineering": 3.81,
+            "Transportation Engineering": 3.65,
+            "Hydrology": 3.89
+        },
+        "grade": 3.73,
+        "status": "3rd Year (Junior)"
+    },
+    {
+        "name": "IshaniPandey",
+        "age": 26,
+        "email": "ishanipandey466@outlook.com",
+        "phone": "345-345-3456",
+        "student_ID": "S130",
+        "department": "Chemistry",
+        "section": "D",
+        "running_semester": "7th Semester",
+        "total_course": 5,
+        "subjects": {
+            "Organic Chemistry": 3.81,
+            "Inorganic Chemistry": 3.75,
+            "Physical Chemistry": 3.9,
+            "Analytical Chemistry": 3.95,
+            "Biochemistry": 3.78
+        },
+        "grade": 3.84,
+        "status": "3rd Year (Junior)"
+    },
+    {
+        "name": "MohiniSrivae",
+        "age": 23,
+        "email": "mohinisrivae795@outlook.com",
+        "phone": "999-000-1111",
+        "student_ID": "S114",
+        "department": "Architecture",
+        "section": "B",
+        "running_semester": "2nd Semester",
+        "total_course": 3,
+        "subjects": {
+            "Architectural Design": 3.75,
+            "Building Materials": 3.45,
+            "Structural Systems": 3.81
+        },
+        "grade": 3.67,
+        "status": "4th Year (Senior)"
+    },
+    {
+        "name": "OjaswiniSha",
+        "age": 22,
+        "email": "ojaswinisha678@outlook.com",
+        "phone": "789-012-3456",
+        "student_ID": "S107",
+        "department": "Psychology",
+        "section": "B",
+        "running_semester": "3rd Semester",
+        "total_course": 5,
+        "subjects": {
+            "Cognitive Psychology": 3.6,
+            "Social Psychology": 3.6,
+            "Abnormal Psychology": 3.45,
+            "Developmental Psychology": 3.85,
+            "Personality Psychology": 3.74
+        },
+        "grade": 3.65,
+        "status": "1st Year (Freshman)"
+    },
+    {
+        "name": "UrjaSinghan",
+        "age": 18,
+        "email": "urjasinghan847@outlook.com",
+        "phone": "901-234-5678",
+        "student_ID": "S122",
+        "department": "Architecture",
+        "section": "C",
+        "running_semester": "4th Semester",
+        "total_course": 3,
+        "subjects": {
+            "Architectural Design": 3.67,
+            "Building Materials": 3.67,
+            "Structural Systems": 3.75
+        },
+        "grade": 3.7,
+        "status": "1st Year (Freshman)"
+    }
+]
